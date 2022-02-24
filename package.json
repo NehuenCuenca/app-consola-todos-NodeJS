@@ -1,0 +1,16 @@
+{
+  "name": "04-todo-consola",
+  "version": "1.0.0",
+  "description": "app de todos pero en consola (CRUD de tareas)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nehuen Cuenca",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
